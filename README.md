@@ -1,2 +1,3 @@
-# horus
-AI
+# Horus
+Prototype AI
+holytechpriest@outlook.com
